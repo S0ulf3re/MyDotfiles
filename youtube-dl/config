@@ -1,0 +1,4 @@
+# Youtube-dl Configuration
+
+# Always save everything to the Downloads folder
+--output "$HOME/Downloads/%(title)s.%(ext)s"

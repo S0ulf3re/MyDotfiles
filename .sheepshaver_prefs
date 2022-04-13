@@ -1,0 +1,43 @@
+disk Retro.dsk
+cdrom /dev/poll/cdrom
+extfs /Users/Shared/Sheepshaver
+screen dga/2560/1600
+windowmodes 0
+screenmodes 0
+seriala 
+serialb /dev/null
+rom MAC OS ROM
+bootdrive 0
+bootdriver 0
+ramsize 536870912
+frameskip 1
+gfxaccel true
+nocdrom false
+nonet false
+nosound false
+nogui false
+noclipconversion false
+ignoresegv true
+ignoreillegal false
+jit false
+jit68k false
+keyboardtype 5
+hardcursor false
+hotkey 0
+scale_nearest false
+scale_integer false
+cpuclock 0
+yearofs 0
+dayofs 0
+mag_rate 0
+swap_opt_cmd false
+sound_buffer 0
+name_encoding 0
+ether 
+keycodes false
+keycodefile 
+mousewheelmode 1
+mousewheellines 3
+dsp /dev/dsp
+mixer /dev/mixer
+idlewait true
